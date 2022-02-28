@@ -1,0 +1,1 @@
+In this video, we will be trying to analyse the order of growth of various common loops that are mainly used in programming.

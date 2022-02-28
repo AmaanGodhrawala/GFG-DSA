@@ -1,0 +1,1 @@
+This video introduces us to the Big O Notation, it' s mathematical definition, examples and its various applications.

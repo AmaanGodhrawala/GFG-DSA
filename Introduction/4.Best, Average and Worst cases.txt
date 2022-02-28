@@ -1,0 +1,1 @@
+In this video we will talk about best, average and worst cases for algorithms with examples. We’ll learn which case should be preferred out of them.

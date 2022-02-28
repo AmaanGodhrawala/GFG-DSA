@@ -1,0 +1,1 @@
+In this video we will talk about the background of asymptotic analysis for measuring order of growth, comparing different programs running in different machines. Video also discusses the previous example of returning the sum of first n natural numbers considering the three algorithms which were discussed.

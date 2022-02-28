@@ -1,0 +1,1 @@
+This video introduces us to the Order of growth of complex programs along with the 3 major Asymptotic Notations that are used as mathematical tools to represent time complexities of algorithms for asymptotic analysis, namely Big O notation, Theta Notation and the Omega Notation

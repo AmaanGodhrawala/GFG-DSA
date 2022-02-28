@@ -1,0 +1,1 @@
+In this video we talk about background of alalysis of algorithms by writing three functions/methods that return sum of first n natural numbers and analyse these three different functions in detail and compare them with each other on the basis of the time taken by them individually.
