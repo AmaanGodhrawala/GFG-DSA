@@ -1,0 +1,11 @@
+GCD or HCF of two Numbers
+Greatest Common Divisor
+Codes:
+
+Euclidean Algorithm Code
+CPP: https://ide.geeksforgeeks.org/2Kogq8ZSr2
+Java: https://ide.geeksforgeeks.org/krJL7txfcu
+ 
+Optimised Euclidean Algorithm Code
+CPP: https://ide.geeksforgeeks.org/DVTQQ1NZji
+Java: https://ide.geeksforgeeks.org/Jm1hDj4vKC

@@ -1,0 +1,6 @@
+Trailing Zeros in Factorial
+Trailing Zeros in Factorial
+Codes:
+
+CPP: https://ide.geeksforgeeks.org/KxrWqkqemN
+Java: https://ide.geeksforgeeks.org/jNBG35z0gd

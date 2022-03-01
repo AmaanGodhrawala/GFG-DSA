@@ -1,0 +1,10 @@
+Factorial of a Number
+Factorial of A Number 
+Codes:
+
+Recursive Code
+CPP: https://ide.geeksforgeeks.org/e5ObKWiVJg
+Java: https://ide.geeksforgeeks.org/T5k8gr4PVG
+Iterative Code
+CPP: https://ide.geeksforgeeks.org/dnkKaPezcH
+Java: https://ide.geeksforgeeks.org/H0oo72wo3D

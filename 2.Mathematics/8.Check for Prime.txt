@@ -1,0 +1,10 @@
+Check for Prime
+Check for Prime
+Codes:
+
+Efficient Code
+CPP: https://ide.geeksforgeeks.org/OOF8iVVsbv
+Java: https://ide.geeksforgeeks.org/DOI1KDAj2e
+More Efficient Code(for large numbers)
+CPP: https://ide.geeksforgeeks.org/fwhdlIboxM
+Java: https://ide.geeksforgeeks.org/FAY7ascbXO

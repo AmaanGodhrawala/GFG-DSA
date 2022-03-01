@@ -1,0 +1,7 @@
+Computing Power
+Computing Power(x,n)
+Codes:
+
+Efficient Code
+CPP: https://ide.geeksforgeeks.org/vhLhbMRd9d
+Java: https://ide.geeksforgeeks.org/XouV5OsEWq

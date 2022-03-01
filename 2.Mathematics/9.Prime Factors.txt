@@ -1,0 +1,10 @@
+Prime Factors
+Prime Factors
+Codes:
+
+Efficient Code
+CPP: https://ide.geeksforgeeks.org/I3PiLRDM9X
+Java: https://ide.geeksforgeeks.org/grprGXewC5
+More Efficient Code
+CPP: https://ide.geeksforgeeks.org/SBIlYhdaaF
+Java: https://ide.geeksforgeeks.org/LLqHJN1J22

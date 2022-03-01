@@ -1,0 +1,6 @@
+LCM of Two Numbers
+LCM of Two Numbers
+Codes:
+
+CPP: https://ide.geeksforgeeks.org/cUkWL1UIdu
+Java: https://ide.geeksforgeeks.org/ucqoME7keP
