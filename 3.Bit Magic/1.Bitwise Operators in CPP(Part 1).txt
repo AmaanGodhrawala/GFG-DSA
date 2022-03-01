@@ -1,0 +1,8 @@
+Bitwise Operators in CPP (Part 1)
+This is the first part of the Bitwise Operators in C++ which introduces us to the first 3 of the 6 bitwise operators in C++, namely:
+
+AND (&) operator
+OR (|) operator
+XOR (^) operator
+Codes:
+CPP: https://ide.geeksforgeeks.org/jWXP2t5Fne

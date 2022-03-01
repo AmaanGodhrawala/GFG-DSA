@@ -1,0 +1,9 @@
+Check Kth bit is set or not
+Codes:
+
+Method 1 (Using Left Shift)
+C++ : https://ide.geeksforgeeks.org/6JnRs4TxBN
+Java : https://ide.geeksforgeeks.org/hCQaaJ4lWF
+Method 2 (Using Right Shift)
+C++ : https://ide.geeksforgeeks.org/DJACIszUAC
+Java : https://ide.geeksforgeeks.org/1lCpDtztDO

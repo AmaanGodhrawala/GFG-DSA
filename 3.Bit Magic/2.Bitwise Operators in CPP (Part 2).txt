@@ -1,0 +1,14 @@
+This is the second part of the Bitwise Operators in C++ which introduces us to the last 3 of the 6 bitwise operators in C++, namely:
+
+Left Shift Operator (<<)
+Right Shift Operator (>>)
+Bitwise Not operator
+Codes:
+Example(Bitwise Not, Signed Input)
+CPP: https://ide.geeksforgeeks.org/JLMWvyqycY
+Example(Bitwise Not, Unsigned Input)
+CPP: https://ide.geeksforgeeks.org/xBPlSrZAX3
+Example(Right Shift)
+CPP: https://ide.geeksforgeeks.org/AtRdo4dtah
+Example(Left Shift)
+CPP: https://ide.geeksforgeeks.org/HPpSTBxyFv
